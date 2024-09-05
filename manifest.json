@@ -1,0 +1,32 @@
+{
+    "name": "Vertentes do Metal",
+    "short_name": "Metal",
+    "description": "Conheça 9 vertentes do metal e uma banda que representa cada uma delas",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#ffffff",
+    "icons": [
+      {
+        "src": "img/logo-dwtsp-96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "img/logo-dwtsp-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      },
+      {
+        "src": "img/logo-dwtsp-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/logo-dwtsp-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
